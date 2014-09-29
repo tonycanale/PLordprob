@@ -1,0 +1,12 @@
+6c1ca9f1c4696d64965b40d8643acb09 *DESCRIPTION
+868baacaf081d27d8f8368d662198b07 *NAMESPACE
+29a9f56585207133282e0135da4f76b1 *R/a2delta.R
+c7eabc0cf8dc033197ccd011af347de9 *R/delta2a.R
+56291f8082301e4f67c0d9eb1af7b91a *R/ordprob.mple.R
+31dfdfcf2373e65dabf98a2f6273b9f6 *R/ordprob.pair.R
+ca2ffd4ff0fd97f9ed9b0c3ba1166f95 *man/PLordprob-package.Rd
+7fba9e61b9ad6dfcbac53ee83542a6fb *man/delta2a.Rd
+5a706d3375edf11f79ae91a2d53ffc23 *man/ordprob.mple.Rd
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
+0f88c4128653ee5cbb6b8f9137e2ea8f *src/cat_pair.c
+81a7dcf60a028ea134bda20c9e7767f3 *src/sadmvnt.f

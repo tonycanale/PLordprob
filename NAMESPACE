@@ -1,0 +1,7 @@
+useDynLib(PLordprob)
+import(stats)
+import(utils)
+import(mnormt)
+export(ordprob.mple)
+export(delta2a)
+export(a2delta)
